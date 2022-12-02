@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 68,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Jihye Lee",
+    "title": "Asia-Pacific markets rise, Japanese yen strengthens as Fed signals smaller hikes - CNBC",
+    "description": "Investors in the Asia-Pacific digest commentary from Federal Reserve Chair Jerome Powell as he confirmed smaller rate hikes could start in December.",
+    "url": "https://www.cnbc.com/2022/12/01/asia-pacific-stocks-fed-confirms-smaller-hikes-ahead.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107159436-1669859699359-gettyimages-1243950696-yuen-hongkong221013_npN6J.jpeg?v=1669859898&w=1920&h=1080",
+    "publishedAt": "2022-12-01T06:29:00Z",
+    "content": "Singapore's Deputy Prime Minister Lawrence Wong said the state sovereign wealth fund's investment loss of $275 million in collapsed crypto exchange FTX is \"disappointing and has caused reputational d… [+640 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Rolling Stone"
+    },
+    "author": "Miles Klee",
+    "title": "‘I’ve Had a Bad Month’: Sam Bankman-Fried Ignores Lawyers to Make Awkward Public Appearance - Rolling Stone",
+    "description": "The disgraced white knight of crypto gave a live interview about FTX mismanagement, drugs, and potential criminal fraud charges",
+    "url": "https://www.rollingstone.com/culture/culture-news/sam-bankman-fried-denies-fraud-ftx-collapse-1234638904/",
+    "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/11/sam-bankman-fried-dealbook.jpg?w=1600&h=900&crop=1",
+    "publishedAt": "2022-12-01T04:00:55Z",
+    "content": "Even as critics fumed that he wasn’t already in jail, and rumors swirled that he would cancel the risky public appearance, Sam Bankman-Fried, co-founder of the failed cryptocurrency exchange FTX, gav… [+6303 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Abigail Ng",
+    "title": "China tech stocks have 'a lot of upside' and peak regulation is over, fund management firm says - CNBC",
+    "description": "The Chinese government is unlikely to introduce new regulations for the internet tech sector, according to Jonathan Krane of KraneShares.",
+    "url": "https://www.cnbc.com/2022/12/01/china-internet-firms-have-seen-peak-regulation-kraneshares.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107158826-1669798966315-gettyimages-1240929070-SHANGHAI_COVID.jpeg?v=1669865446&w=1920&h=1080",
+    "publishedAt": "2022-12-01T03:30:00Z",
+    "content": "The Chinese government is unlikely to introduce new regulations for the internet tech sector and there could be more support going forward, according to Jonathan Krane of KraneShares.\r\n\"I think we've… [+2031 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": null,
+    "title": "'River of blood': Foxconn employee describes violent protests in China - CNN",
+    "description": "Video obtained by CNN shows violence in China at Foxconn, the world's largest iPhone factory. Workers are protesting unfair treatment, dirty living conditions, and chaotic Covid rules, as CNN's Selina Wang reports.",
+    "url": "https://www.cnn.com/videos/business/2022/12/01/china-covid-protests-foxconn-iphone-factory-wang-dnt-ebof-vpx.cnn",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/221130194352-china-protest-super-tease.jpg",
+    "publishedAt": "2022-12-01T03:19:49Z",
+    "content": ""
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "Matthew Perrone",
+    "title": "FDA clears 1st fecal transplant treatment for gut infection - The Associated Press - en Español",
+    "description": "WASHINGTON (AP) — U.S. officials have approved the first pharmaceutical-grade version of the so-called fecal transplant procedures that doctors have increasingly used against hard-to-treat intestinal infections.",
+    "url": "https://apnews.com/article/health-business-philanthropy-80e3d3737293482332fccaf1a5244260",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/217118c6eb76466e88a48be3675b8ba2/3000.jpeg",
+    "publishedAt": "2022-12-01T02:59:42Z",
+    "content": "WASHINGTON (AP) U.S. officials have approved the first pharmaceutical-grade version of the so-called fecal transplant procedures that doctors have increasingly used against hard-to-treat intestinal i… [+1835 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Thomas Gryta",
+    "title": "General Electric Sets Healthcare Division Spin-Off Plans - The Wall Street Journal",
+    "description": "Shareholders to get 1 share in new company in January for every 3 shares in GE that they hold",
+    "url": "https://www.wsj.com/articles/ge-puts-31-billion-value-on-spinoff-of-ge-healthcare-technologies-11669847256",
+    "urlToImage": "https://images.wsj.net/im-676770/social",
+    "publishedAt": "2022-12-01T02:03:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Aislinn Murphy",
+    "title": "Netflix's Reed Hastings weighs in on Elon Musk at NYT summit - Fox Business",
+    "description": "Netflix co-CEO Reed Hastings described billionaire Elon Musk as the \"bravest, most creative person on the planet\" at a New York Times summit Wednesday.",
+    "url": "https://www.foxbusiness.com/markets/netflixs-reed-hastings-weighs-in-elon-musk-nyt-summit",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/05/0/0/AP20141435051322.jpg?ve=1&tl=1",
+    "publishedAt": "2022-12-01T01:47:38Z",
+    "content": "Netflix co-CEO Reed Hastings offered some of his thoughts on billionaire and Twitter CEO Elon Musk while speaking Wednesday at a New York Times summit.\r\nHastings told Andrew Ross Sorkin, founder and … [+3216 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Benzinga"
+    },
+    "author": "Shivdeep Dhaliwal",
+    "title": "Ethereum Gains Eclipse Bitcoin, Dogecoin In Broader Risk Rally: Analyst Says Charts Signal Powell's Speec - Benzinga",
+    "description": "Major coins rallied Wednesday night as the global cryptocurrency market cap rose 3.9% to $866.2 billion at 7:07 p.m. EST.",
+    "url": "https://www.benzinga.com/markets/cryptocurrency/22/11/29916577/ethereum-gains-eclipse-bitcoin-dogecoin-in-broader-risk-rally-analyst-says-charts-signal-p",
+    "urlToImage": "https://cdn.benzinga.com/files/images/story/2022/11/30/shutterstock_1905996475.jpg?width=1200&height=800&fit=crop",
+    "publishedAt": "2022-12-01T01:02:53Z",
+    "content": "Major coins rallied Wednesday night as the global cryptocurrency market cap rose 3.9% to $866.2 billion at 7:07 p.m. EST.\r\n<table>Price Performance Of Major Coins\r\n<tr><th>Coin</th><th>24-hour</th><t… [+2894 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "https://www.engadget.com/about/editors/karissa-bell",
+    "title": "Elon Musk says he and Tim Cook 'resolved the misunderstanding' about Twitter's iOS app - Engadget",
+    "description": "Elon Musk and Tim Cook have apparently made up following a dustup over the status of Twitter’s iOS app..",
+    "url": "https://www.engadget.com/elon-musk-says-he-and-tim-cook-resolved-the-misunderstanding-about-twitter-005702715.html",
+    "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-09/bac63060-3024-11ed-a6b7-80a6381a50f2",
+    "publishedAt": "2022-12-01T00:58:45Z",
+    "content": "Elon Musk and Tim Cook have apparently made up following a dustup over the status of Twitters iOS app. Musk, who earlier this week, claimed that Apple had threatened to withhold Twitter from the App … [+1160 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "DoorDash cuts 1250 jobs to control ballooning costs - Reuters.com",
+    "description": "DoorDash Inc <a href=\"https://www.reuters.com/companies/DASH.N\" target=\"_blank\">(DASH.N)</a> said on Wednesday it was cutting about 1,250 jobs, or 6% of its total workforce, as the food-delivery company looks to keep a lid on costs to cope with a slowdown in …",
+    "url": "https://www.reuters.com/business/retail-consumer/doordash-cuts-1250-jobs-an-effort-rein-expenses-2022-11-30/",
+    "urlToImage": "https://www.reuters.com/resizer/trf0ubLoSJzgE9Xxt1VSLnu4Hiw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3I2U54WDWZKSHH6XPB5BBVYR3E.jpg",
+    "publishedAt": "2022-11-30T23:42:00Z",
+    "content": "Nov 30 (Reuters) - DoorDash Inc (DASH.N) said on Wednesday it was cutting about 1,250 jobs, or 6% of its total workforce, as the food-delivery company looks to keep a lid on costs to cope with a slow… [+2159 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Seana Smith",
+    "title": "Stocks trending after hours: Salesforce, Okta, Snowflake and more - Yahoo Finance",
+    "description": "Top trending Yahoo Finance tickers for Wednesday, November 30, 2022.",
+    "url": "https://finance.yahoo.com/news/stocks-trending-after-hours-salesforce-okta-snowflake-and-more-233950129.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TLVRtRNsPk1YhlU0SGxkAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-06/0e59b900-8708-11e9-9ea7-6883effa4e13",
+    "publishedAt": "2022-11-30T23:39:50Z",
+    "content": "Salesforce (CRM): Salesforce co-CEO and vice chair Bret Taylor is stepping down as of January 31, 2023, the company announced in its earnings release Wednesday. Co-founder Marc Benioff will become Sa… [+1961 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Carma Hassan",
+    "title": "FDA considering shift toward individual risk-based assessments for blood donors - CNN",
+    "description": "The US Food and Drug Administration is considering shifting its blood donation policy away from blanket assessments toward questionnaires that focus more on individual risk, it said Wednesday.",
+    "url": "https://www.cnn.com/2022/11/30/health/fda-msm-blood-donations/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221130132822-blood-donation-file.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-11-30T23:33:00Z",
+    "content": "The US Food and Drug Administration is considering shifting its blood donation policy away from blanket assessments toward questionnaires that focus more on individual risk, it said Wednesday.\r\nThe a… [+3572 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Krystal Hur",
+    "title": "Jim Cramer says to use Wednesday’s rally to reposition into profitable stocks - CNBC",
+    "description": "Stocks rose on Wednesday after Federal Reserve Chair Jerome Powell signaled that the central bank will ease back its brisk pace of interest rate increases.",
+    "url": "https://www.cnbc.com/2022/11/30/jim-cramer-use-wednesdays-rally-to-reposition-into-profitable-stocks.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/105842165-1554931933070img_1295r.jpg?v=1669850716&w=1920&h=1080",
+    "publishedAt": "2022-11-30T23:25:16Z",
+    "content": "CNBC's Jim Cramer urged investors to use the market's rally on Wednesday to recalibrate their portfolios.\r\n\"Use this moment to pivot yourself. Get out of the stocks I've been railing against for a fu… [+990 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Electrek"
+    },
+    "author": "Peter Johnson",
+    "title": "Drivers are ditching Toyota, Honda gas cars for electric vehicles - Electrek",
+    "description": "The electric vehicle rollout is gaining momentum as new car shoppers are increasingly switching to EVs, even if their preferred...",
+    "url": "https://electrek.co/2022/11/30/drivers-are-ditching-toyota-honda-gas-cars-for-electric-vehicles/",
+    "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/11/Electric-vehicles-gas-cars.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-11-30T23:20:00Z",
+    "content": "The electric vehicle rollout is gaining momentum as new car shoppers are increasingly switching to EVs, even if their preferred brand is not currently offering any. Ford, GM, and Hyundai’s new electr… [+3105 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MarketWatch"
+    },
+    "author": "Jon Swartz",
+    "title": "Mark Zuckerberg joins the Apple bashing: It is 'problematic for one company to control what kind of app experiences get onto a device' - MarketWatch",
+    "description": "Just hours after Spotify Technology Inc. Chief Executive Daniel Ek went off on Twitter, charging that Apple \"gives itself every advantage while at the same...",
+    "url": "https://www.marketwatch.com/story/mark-zuckerberg-joins-the-apple-bashing-it-is-problematic-for-one-company-to-control-what-kind-of-app-experiences-get-onto-a-device-11669848869",
+    "urlToImage": "https://images.mktw.net/im-675841/social",
+    "publishedAt": "2022-11-30T22:54:00Z",
+    "content": "Mark Zuckerberg has joined the Apple-bashing party.Just hours after Spotify Technology Inc. \r\n SPOT,\r\n +5.75%\r\nChief Executive Daniel Ek went off on Twitter, charging that Apple gives itself every ad… [+1722 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Alexandra Garfinkle",
+    "title": "DoorDash, Roku, HP, and more: Tech layoffs keep on coming - Yahoo Finance",
+    "description": "Tech layoffs keep growing. Yahoo Finance's has been compiling an ongoing list of the latest cuts.",
+    "url": "https://finance.yahoo.com/news/door-dash-roku-hp-and-more-tech-layoffs-keep-on-coming-223006378.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/EqKyTQLiPcJZseZg..hR8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-09/db9d56a0-1d7a-11ec-bf3e-0252b581a7db",
+    "publishedAt": "2022-11-30T22:30:06Z",
+    "content": "Tech layoffs are dominating newsfeeds and headlines, and the cuts are coming across the board.\r\nThis isn't the first round of tech layoffs since the end of the pandemic, but this time the cuts aren't… [+6123 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Hannah Sampson",
+    "title": "Delta airport lounges are about to get more exclusive - The Washington Post",
+    "description": "The airline says the changes are meant to help protect a « premium experience. »",
+    "url": "https://www.washingtonpost.com/travel/2022/11/30/delta-sky-club-lounge-access/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MR6TDNUEFRGPPARHPV2NLQA2EE.jpg&w=1440",
+    "publishedAt": "2022-11-30T22:30:00Z",
+    "content": "Comment on this story\r\nDelta thinks its cushy airport clubs have gotten a little too popular.\r\nOn Wednesday, the airline announced it is changing the requirements to access its Sky Club lounges start… [+5096 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Snowflake Offers Weak Product Revenue Guidance, Stock Tumbles - Investor's Business Daily",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbmV3cy90ZWNobm9sb2d5L3Nub3ctc3RvY2stc25vd2ZsYWtlLWVhcm5pbmdzLXNub3dmbGFrZS1zdG9jay1xMzIwMjIv0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2022-11-30T22:02:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Evan Halper",
+    "title": "The cost of gas is dropping. Here's why, and how long the lower prices might last. - The Washington Post",
+    "description": "The price of gas is back to where it was before Russia invaded Ukraine and is heading toward $3 a gallon. It is putting real money back in Americans' wallets.",
+    "url": "https://www.washingtonpost.com/business/2022/11/30/gas-prices-drop-russia-oil/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JIEZYTPG4I63BT4R3DJLZFPZU.jpg&w=1440",
+    "publishedAt": "2022-11-30T21:52:00Z",
+    "content": "Comment on this story\r\nThe cost of gasoline is falling so fast that it is beginning to put real money back in the pockets of drivers, defying earlier projections and offering an unexpected gift for t… [+7545 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Barron's"
+    },
+    "author": "Al Root",
+    "title": "XPeng Stock Soars 40% After Results Miss Forecasts - Barron's",
+    "description": "XPeng expects to deliver about 20,500 vehicles in the fourth quarter, down from 29,570 delivered in the third quarter and 34,422 in the second quarter of 2022.",
+    "url": "https://www.barrons.com/articles/xpeng-stock-price-earnings-ev-51669755008",
+    "urlToImage": "https://images.barrons.com/im-675325/social",
+    "publishedAt": "2022-11-30T21:51:00Z",
+    "content": null
+    }
+    ]
+    }
